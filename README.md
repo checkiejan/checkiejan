@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/ecd05ac99966614c965fc9500980e211a34b0945d48db5961c3edeae890149c6/68747470733a2f2f692e696d6775722e636f6d2f6561616f61394a2e6a7067)
 
-<h1 align="center">Hi 👋, I'm Minh Quang</h1>
-<h3 align="center">A passionate tech enthusiast coming from Viet Nam</h3>
+<h1 align="center">Hi 👋, I'm Gia Hung</h1>
+<h3 align="center">A passionate tech enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development and Backend**
 
-- 📫 How to reach me **quangdm961@gmail.com**
+- 📫 How to reach me **hungtrangia2003@gmail.com**
 
 <h3 align="left">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
